@@ -92,6 +92,23 @@ criterio del auditor médico ni la validación administrativa de la IPS.
 La pertinencia clínica no puede determinarse únicamente mediante los
 códigos CIE-10 y CUPS.
 
+## Ejecución del proyecto
+
+El notebook puede visualizarse directamente desde GitHub.
+
+Para ejecutarlo completamente se requieren:
+
+- archivo de atenciones;
+- archivo de historia clínica detallada;
+- archivo de prefactura;
+- modelo entrenado;
+- escalador;
+- archivo de configuración.
+
+Por protección de la información, los archivos originales utilizados
+durante el proyecto no se incluyen en el repositorio. El sistema debe
+ejecutarse con datos simulados o anonimizados.
+
 ## Autores
 
 - Angie Sepúlveda
