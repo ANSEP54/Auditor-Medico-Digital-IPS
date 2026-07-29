@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+gradio
+matplotlib
+openpyxl
+joblib
