@@ -94,10 +94,11 @@ códigos CIE-10 y CUPS.
 
 ## Autores
 
-Angie Sepúlveda        
-Johan García
-Jenny Paola
-Natalia Ramírez
-Daniel Forero
-Proyecto Capstone – Samsung Innovation Campus  
-2026
+- Angie Sepúlveda
+- Johan García
+- Jenny Paola
+- Natalia Ramírez
+- Daniel Forero
+
+**Proyecto Capstone – Samsung Innovation Campus**  
+**2026**
