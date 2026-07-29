@@ -92,9 +92,13 @@ criterio del auditor médico ni la validación administrativa de la IPS.
 La pertinencia clínica no puede determinarse únicamente mediante los
 códigos CIE-10 y CUPS.
 
-## Autora
+## Autores
 
 Angie Sepúlveda  
 Administradora en Salud  
+Johan García
+Jenny Paola
+Natalia Ramírez
+Daniel Forero
 Proyecto Capstone – Samsung Innovation Campus  
 2026
