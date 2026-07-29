@@ -94,8 +94,7 @@ códigos CIE-10 y CUPS.
 
 ## Autores
 
-Angie Sepúlveda  
-Administradora en Salud  
+Angie Sepúlveda        
 Johan García
 Jenny Paola
 Natalia Ramírez
