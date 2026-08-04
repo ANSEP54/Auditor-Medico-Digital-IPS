@@ -119,7 +119,7 @@ ejecutarse con datos simulados o anonimizados.
 
 Puedes consultar o descargar la presentación final del proyecto:
 
-[Ver presentación del Auditor Médico Digital H&L](./Presentación%20Capstone%20Samsung.pdf)
+[Ver presentación del Auditor Médico Digital H&L](https://github.com/ANSEP54/Auditor-Medico-Digital-IPS/blob/main/Presentacio%CC%81n%20Capstone%20Samsung.pdf)
 
 ## Video de presentación
 
