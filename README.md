@@ -27,6 +27,12 @@ neuronal desarrollada en TensorFlow y Keras.
 - Interfaz web desarrollada con Gradio.
 - Generación de resultados descargables.
 
+## Demo web
+
+Puedes consultar la demostración web del proyecto en el siguiente enlace:
+
+[Ver prototipo web del proyecto](https://jennypaolapmejia.github.io/reto_itaca/)
+
 ## Archivos de entrada
 
 El prototipo recibe tres archivos CSV:
