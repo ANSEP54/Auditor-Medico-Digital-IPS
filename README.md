@@ -117,13 +117,15 @@ ejecutarse con datos simulados o anonimizados.
 
 ## Presentación del proyecto
 
-Puedes consultar la presentación final del proyecto en formato PDF:
+Puedes consultar o descargar la presentación final del proyecto:
 
 [Ver presentación del Auditor Médico Digital H&L](./Presentación%20Capstone%20Samsung.pdf)
 
 ## Video de presentación
 
-[Ver video de presentación](./Video_Presentacion_Auditor_IPS.mp4)
+Puedes consultar o descargar el video de presentación:
+
+[Ver video de presentación del proyecto](./Video%20presentación%20Capstone%20Samsung.mp4)
 
 ## Autores
 
