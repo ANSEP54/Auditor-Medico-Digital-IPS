@@ -115,6 +115,16 @@ Por protección de la información, los archivos originales utilizados
 durante el proyecto no se incluyen en el repositorio. El sistema debe
 ejecutarse con datos simulados o anonimizados.
 
+## Presentación del proyecto
+
+Puedes consultar la presentación final del proyecto en formato PDF:
+
+[Ver presentación del Auditor Médico Digital H&L](./Presentación%20Capstone%20Samsung.pdf)
+
+## Video de presentación
+
+[Ver video de presentación](./Video_Presentacion_Auditor_IPS.mp4)
+
 ## Autores
 
 - Angie Sepúlveda
