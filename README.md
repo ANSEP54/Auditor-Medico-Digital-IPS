@@ -123,9 +123,9 @@ Puedes consultar o descargar la presentación final del proyecto:
 
 ## Video de presentación
 
-Puedes descargar el video de presentación del proyecto:
+Puedes consultar o descargar el video de presentación del proyecto:
 
-[Descargar video de presentación](https://github.com/ANSEP54/Auditor-Medico-Digital-IPS/raw/refs/heads/main/Video%20presentaci%C3%B3n%20Capstone%20Samsung.mp4)
+[Ver video de presentación del Auditor Médico Digital H&L](https://github.com/ANSEP54/Auditor-Medico-Digital-IPS/blob/main/Video%20presentacio%CC%81n%20Capstone%20Samsung.mp4)
 
 ## Autores
 
